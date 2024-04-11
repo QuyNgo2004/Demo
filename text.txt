@@ -19,5 +19,3 @@ Hello
 =======
 efesefs
 Xin Chao
->>>>>>> brand
-adwdw
