@@ -9,4 +9,8 @@ adwfer
 =======
 adwfwadwa
 >>>>>>> main
+<<<<<<< HEAD
 sfefeaa
+=======
+efesefs
+>>>>>>> brand
