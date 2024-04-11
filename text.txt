@@ -10,8 +10,13 @@ adwfer
 adwfwadwa
 >>>>>>> main
 <<<<<<< HEAD
+<<<<<<< HEAD
 sfefeaa
 =======
 efesefs
 >>>>>>> brand
 Hello
+=======
+efesefs
+Xin Chao
+>>>>>>> brand
